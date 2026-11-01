@@ -1,0 +1,16 @@
+Asset ID,Asset Name,Asset Type,Business Owner,Data Classification,Criticality,Primary Risk
+A-001,AWS Production Environment,Cloud Infrastructure,CTO,Restricted,Critical,Unauthorized access to patient data
+A-002,Electronic Health Records,Healthcare Application,CTO,Restricted,Critical,PHI exposure
+A-003,Patient Web and Mobile Application,Application,CTO,Restricted,Critical,Application vulnerability
+A-004,Clinician Portal,Application,CTO,Restricted,Critical,Unauthorized medical record access
+A-005,Google Workspace,SaaS,IT Manager,Confidential,High,Account compromise
+A-006,Okta Identity Platform,Identity Management,IT Manager,Confidential,Critical,Credential compromise
+A-007,Employee Laptops,Endpoints,IT Manager,Confidential,High,Device loss or malware
+A-008,Office Network,Network Infrastructure,IT Manager,Internal,High,Unauthorized network access
+A-009,GitHub Repositories,Development Platform,CTO,Confidential,High,Source code exposure
+A-010,Zoom for Healthcare,Telehealth Platform,CTO,Restricted,High,Unauthorized session access
+A-011,Twilio Messaging,SaaS,Privacy Officer,Restricted,High,Patient information disclosure
+A-012,Zendesk Support,SaaS,Privacy Officer,Restricted,High,PHI exposure in support tickets
+A-013,Gusto Payroll,HR Platform,HR Manager,Confidential,High,Employee personal data breach
+A-014,Stripe Payments,Payment Processor,CTO,Restricted,High,Payment workflow compromise
+A-015,Slack,Collaboration Platform,IT Manager,Internal,Medium,Unauthorized sharing of PHI
