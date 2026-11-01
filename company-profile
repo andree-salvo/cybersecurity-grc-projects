@@ -1,0 +1,40 @@
+# Project 1: MedBridge Health — Company Profile & Security Architecture
+
+## Objective
+Develop a fictional healthcare organization's company profile to establish the business, technical, and regulatory context for a Governance, Risk, and Compliance (GRC) assessment.
+
+## Company Overview
+MedBridge Health, Inc. is a fictional telehealth organization headquartered in San Francsico, California, providing virtual healthcare services to approximately 40,000 patients.
+
+- **Industry:** Healthcare / Telehealth
+- **Employees:** 50
+- **Infrastructure:** AWS, Google Workspace, Okta
+- **Sensitive Information:** Protected Health Information (PHI), Personally Identifiable Information (PII)
+- **Regulatory Considerations:** HIPAA, HITECH, applicable state privacy laws
+- **Business Goal:** Obtain a SOC 2 Type II report within 12 months
+
+## Project Scope
+- Develop an organizational profile
+- Identify critical systems and assets
+- Classify sensitive information
+- Identify third-party service providers
+- Document potential cybersecurity weaknesses
+- Develop network architecture and patient data flow diagrams
+
+## Frameworks and Tools
+- NIST Cybersecurity Framework (CSF) 2.0
+- HIPAA Security Rule
+- GitHub
+- draw.io (diagrams.net)
+
+## Deliverables
+- Company Profile (PDF)
+- Asset Inventory
+- Network Architecture Diagram
+- Patient Data Flow Diagram
+
+## Project Status
+In Progress
+
+## Disclaimer
+This project uses a fictional healthcare organization for educational and portfolio purposes. All organizational details and security scenarios are simulated!
