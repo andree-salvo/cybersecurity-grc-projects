@@ -56,8 +56,8 @@ These findings will be used in future projects to build a risk register and asse
 
 ## Deliverables
 
-- [Company Profile (PDF)](medbridge-profile.pdf)
-- [Asset Inventory (CSV)](asset-inventory.csv)
+- [Company Profile (PDF)](https://github.com/andree-salvo/GRC-PORTFOLIO/blob/main/1-company-portfolio/MedBridge%20Health%E2%80%94profile.pdf)
+- [Asset Inventory (CSV)](https://github.com/andree-salvo/GRC-PORTFOLIO/blob/main/1-company-portfolio/asset-inventory.csv)
 - [Network Architecture Diagram](diagrams/medbridge-network-architecture.drawio)
 - [Patient Data Flow Diagram](diagrams/medbridge-patient-data-flow.drawio)
 
@@ -65,19 +65,19 @@ These findings will be used in future projects to build a risk register and asse
 
 ### Network Architecture Diagram
 
-![MedBridge Health Network Architecture](screenshots/02-network-architecture.png)
+<img width="568" height="600" alt="network-architecture" src="https://github.com/user-attachments/assets/17f3ad7d-9b50-4703-ac3c-78b146978f9b" />)
 
 *This diagram shows the fictional company's main systems, cloud infrastructure, and network connections.*
 
 ### Patient Data Flow Diagram
 
-![MedBridge Health Patient Data Flow](screenshots/03-patient-data-flow.png)
+<img width="696" height="830" alt="patient-data-flow" src="https://github.com/user-attachments/assets/a1f614ec-ac22-4b77-b50b-8d405088c0db" />
 
 *This diagram shows a simulated patient data workflow and how information may move between healthcare systems.*
 
 ### Asset Inventory
 
-![MedBridge Health Asset Inventory](screenshots/01-asset-inventory.png)
+<img width="938" height="563" alt="asset-inventory" src="https://github.com/user-attachments/assets/467a7a74-f7f0-4f5c-838b-88e5b30b9c49" />
 
 *The asset inventory identifies the company's critical systems, business owners, and potential security risks.*
 
