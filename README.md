@@ -1,14 +1,12 @@
-# Governance, Risk, and Compliance (GRC) Portfolio
+# Cybersecurity Governance, Risk, and Compliance (GRC) Projects
 
-## About This Portfolio
+## About This Project
 
-Welcome to my GRC portfolio! This repository contains hands-on projects I've worked on to build my skills in Governance, Risk, and Compliance (GRC), cybersecurity risk management, security policies, and compliance frameworks.
+This project contains hands-on projects I've worked on to build my skills in Governance, Risk, and Compliance (GRC), cybersecurity risk management, security policies, and compliance frameworks.
 
 For these projects, I'm using a fictional healthcare company called **MedBridge Health, Inc.**, based in San Francisco, California.
 
-The company provides telehealth services and handles sensitive patient information, including Protected Health Information (PHI) and Personally Identifiable Information (PII).
-
-Through these projects, I'm learning how to identify security risks, evaluate existing security controls, document findings, and recommend improvements that help organizations protect sensitive information and meet compliance requirements.
+Through these projects, I'm gaining practical experience identifying security risks, assessing security controls, documenting findings, and recommending improvements to help organizations protect sensitive information and meet compliance requirements.
 
 ## GRC Projects
 
