@@ -116,3 +116,49 @@ I also learned why routine password changes are not always necessary and why it 
 SANS Institute — Password Construction Standard (April 2025).
 
 NIST SP 800-63B-4 — Digital Identity Guidelines: Authentication and Authenticator Management (2025).
+
+
+
+## Incident Response Policy — Tailoring Log
+
+### Overview
+
+For this policy, I used NIST SP 800-61 Revision 3 (2025) as a reference to develop an Incident Response Policy for MedBridge Health.
+
+Since the company handles sensitive patient information and provides telehealth services, I focused on how security incidents should be reported, investigated, contained, and documented.
+
+I also used the security weaknesses identified in Project 1, especially the missing incident response plan and limited security log monitoring, to develop specific incident response requirements.
+
+### Incident Response Policy — Tailoring Decisions
+
+| Policy Section | Reference Guidance | Changes Made for MedBridge Health | Reason |
+|---|---|---|---|
+| Purpose | NIST SP 800-61 Rev. 3 provides incident response guidance. | Added specific language about protecting patient information and maintaining telehealth services. | Security incidents could affect patient privacy and healthcare operations. |
+| Scope | General cybersecurity incident response guidance. | Included AWS, EHR systems, Okta, employee devices, networks, and third-party vendors. | The policy needed to cover MedBridge Health's technology environment. |
+| Roles and Responsibilities | Incident response requires defined responsibilities and coordination. | Assigned responsibilities to the CEO, CTO, vCISO, IT Manager, Privacy Officer, and HR Manager. | MedBridge Health does not have a dedicated security team. |
+| Incident Reporting | Guidance on incident detection, analysis, and response. | Required employees to report suspected incidents immediately and document findings. | Helps reduce delays in identifying security incidents. |
+| Incident Classification | Risk-based incident prioritization. | Created four severity levels: Critical, High, Medium, and Low. | Helps determine how urgently incidents need to be handled. |
+| Response Times | Guidance on prioritizing and coordinating response activities. | Established initial response targets based on incident severity. | Provides measurable expectations for handling security incidents. |
+| Investigation | Guidance on analyzing security incidents and gathering information. | Added requirements for collecting logs, documenting evidence, and recording investigation activities. | Helps support investigations and identify the cause of incidents. |
+| Containment | Guidance on limiting the impact of cybersecurity incidents. | Added requirements for isolating affected systems and securing compromised accounts. | Helps prevent threats from spreading across company systems. |
+| Recovery | Guidance on restoring systems and improving cybersecurity resilience. | Added requirements for removing threats, restoring backups, and verifying affected systems. | Helps reduce downtime and restore healthcare services safely. |
+| HIPAA Breach Notification | HIPAA Breach Notification Rule. | Added PHI breach assessments, notification responsibilities, and applicable reporting deadlines. | MedBridge Health handles patient information protected under HIPAA. |
+| Post-Incident Review | NIST guidance on continuous improvement. | Added post-incident reviews, corrective action tracking, and annual tabletop exercises. | Helps improve the company's ability to respond to future incidents. |
+| Document Control | General governance and accountability guidance. | Added policy ownership, approval requirements, version history, and annual review requirements. | Helps maintain accountability and track policy changes. |
+
+### What I Learned
+
+Working on this policy helped me better understand how organizations prepare for and respond to cybersecurity incidents.
+
+I learned why it's important to have clear responsibilities, severity classifications, and response procedures before an incident happens.
+
+One thing that stood out to me was how incident response connects to compliance. If an incident involves patient information, the company needs to investigate what happened and determine whether it meets the requirements for breach notification under HIPAA.
+
+I also learned why documenting incidents and reviewing what happened afterward is important. These findings can help identify security weaknesses and prevent similar incidents from happening again.
+
+### References
+
+- NIST SP 800-61 Revision 3 (2025) — Incident Response Recommendations and Considerations for Cybersecurity Risk Management
+- NIST Cybersecurity Framework (CSF) 2.0
+- HIPAA Security Rule
+- HIPAA Breach Notification Rule
