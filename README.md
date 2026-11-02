@@ -1,8 +1,8 @@
 # Cybersecurity Governance, Risk, and Compliance (GRC) Projects
 
-## About This Project
+## About This Repository
 
-This project contains hands-on projects I've worked on to build my skills in Governance, Risk, and Compliance (GRC), cybersecurity risk management, security policies, and compliance frameworks.
+This repository contains hands-on projects I've worked on to build my skills in Governance, Risk, and Compliance (GRC), cybersecurity risk management, security policies, and compliance frameworks.
 
 For these projects, I'm using a fictional healthcare company called **MedBridge Health, Inc.**, based in San Francisco, California.
 
@@ -12,7 +12,7 @@ Through these projects, I'm gaining practical experience identifying security ri
 
 | Project | Description | Status |
 |---|---|---|
-| [01 — Company Profile & Security Architecture](01-company-profile/) | Created a fictional healthcare company, documented critical assets, identified security weaknesses, and developed architecture and data flow diagrams. | Completed |
+| [01 — Company Profile & Security Architecture](https://github.com/andree-salvo/GRC-PORTFOLIO/tree/main/1-company-portfolio) | Created a fictional healthcare company, documented critical assets, identified security weaknesses, and developed architecture and data flow diagrams. | Completed |
 | [02 — Core Security Policies](02-policy-set/) | Develop security policies covering information security, acceptable use, passwords, and incident response. | Upcoming |
 | [03 — Cybersecurity Risk Assessment](03-risk-register/) | Identify and assess cybersecurity risks, assign risk owners, and develop a risk register with risk heat maps. | Upcoming |
 | [04 — NIST CSF 2.0 Assessment](04-nist-csf-assessment/) | Evaluate cybersecurity practices against the NIST Cybersecurity Framework and identify security gaps. | Upcoming |
