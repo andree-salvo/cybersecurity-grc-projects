@@ -39,6 +39,8 @@ SANS Institute / Cybersecurity Risk Foundation — Program Management Policy (Fe
 
 This policy was used as a reference and customized for the fictional MedBridge Health environment.
 
+
+
 ## Acceptable Use Policy — Tailoring Log
 
 For this policy, I used the SANS Acceptable Use Standard (April 2025) as a reference and customized it to fit MedBridge Health's healthcare environment.
@@ -73,3 +75,44 @@ I also learned why it's important to keep security policies consistent. For exam
 ### Reference
 
 SANS Institute — Acceptable Use Standard (April 2025).
+
+
+
+## Password and Authentication Policy — Tailoring Log
+
+For this policy, I used the SANS Password Construction Standard (April 2025) as a reference and expanded it to cover MedBridge Health's password and authentication requirements.
+
+The SANS template mainly focuses on password length, passphrases, and password-security testing. I added requirements for MFA, account management, password storage, and administrative access based on the company's security needs.
+
+I also used the shared firewall administrator account identified in Project 1 as one of the main reasons for strengthening account security.
+
+| Policy Section | SANS Template | Changes Made for MedBridge Health | Reason |
+|---|---|---|---|
+| Purpose | Provides general guidance for creating strong passwords. | Expanded the purpose to include authentication, account security, and protection of PHI. | MedBridge Health handles sensitive patient information that requires secure access. |
+| Scope | Applies to employees, contractors, and different types of accounts. | Added AWS, Okta, EHR systems, administrative accounts, and network equipment. | The policy needs to cover the systems MedBridge Health uses. |
+| Roles and Responsibilities | General employee responsibilities. | Assigned responsibilities to the CEO, CTO, vCISO, IT Manager, Privacy Officer, and HR Manager. | Makes sure account security responsibilities are clearly assigned. |
+| Password Requirements | Recommends passwords with at least 16 characters and encourages passphrases. | Adopted a 16-character minimum and added compromised-password checks and restrictions on password reuse. | Helps reduce the risk of weak or compromised passwords. |
+| Password Changes | Requires changes when passwords are cracked during authorized security testing. | Added requirements to change compromised passwords without forcing routine 90-day changes. | Aligns with NIST SP 800-63B guidance. |
+| Multi-Factor Authentication | Not specifically covered in the template. | Required MFA for PHI systems, administrative accounts, and critical remote access. | Helps protect sensitive systems from unauthorized access. |
+| Password Storage | Not specifically covered in the template. | Added approved password managers, secure password storage, and restrictions on sharing credentials. | Helps prevent password exposure and improper credential handling. |
+| Administrative Accounts | Includes system-level accounts in its scope. | Added individual administrator accounts, privileged access reviews, and emergency account controls. | Addresses the shared firewall administrator account identified in Project 1. |
+| Account Management | Not specifically covered in the template. | Added access approval, offboarding, account removal, and six-month access reviews. | Helps prevent former employees from retaining access. |
+| Security Monitoring | Allows authorized password-security testing. | Added authentication logging, suspicious login monitoring, and compromised-account investigations. | Helps detect possible account compromises. |
+| Enforcement | Provides general disciplinary actions for violations. | Assigned responsibility for reviewing violations to HR, the IT Manager, vCISO, and Privacy Officer. | Makes sure authentication-related issues are handled by the appropriate people. |
+| Document Control | Does not include a detailed document control table. | Added a policy ID, version number, owner, approver, and annual review schedule. | Helps maintain accountability and track policy changes. |
+
+### What I Learned
+
+Working on this policy helped me better understand why password security involves more than just creating strong passwords.
+
+I learned how MFA, password managers, access reviews, and individual administrator accounts can help reduce the risk of unauthorized access.
+
+One thing that stood out to me was how shared administrator accounts can make it difficult to track who made changes to a system. This connects directly to the shared firewall account identified in MedBridge Health's security weaknesses.
+
+I also learned why routine password changes are not always necessary and why it is more important to identify compromised passwords and respond appropriately.
+
+### Reference
+
+SANS Institute — Password Construction Standard (April 2025).
+
+NIST SP 800-63B-4 — Digital Identity Guidelines: Authentication and Authenticator Management (2025).
