@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="Wf5myFZdUljksHL_Jot1" name="Page-1">
+    <mxGraphModel dx="1996" dy="1491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-1" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="1. Patient App&lt;div&gt;Patient logs in and requests a visit&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="306" x="-447.5" y="-524" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-2" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="2. AWS Cloud&lt;div&gt;Processes patient appointment data&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="306" x="-447.5" y="-419" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-3" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="3. Clinician Portal&lt;div&gt;Clinician accesses patient records&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="306" x="-447.5" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-4" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="4. Zoom for Healthcare&lt;div&gt;Virtual medical consultation&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="306" x="-447.5" y="-202" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-5" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="5. EHR System&lt;div&gt;Stores clinical visit documentation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="306" x="-451" y="-94" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-6" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="6. Twilio&lt;div&gt;Sends appointment notification&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="306" x="-451" y="13" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-7" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="&lt;p&gt;&lt;strong&gt;Important Notice:&lt;/strong&gt; This diagram shows a simulated patient data flow for MedBridge Health. The connections between Zoom, the EHR system, and Twilio are just examples of how patient information might move between these systems. The actual connections and data flow may be different depending on how the systems are set up.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="99" width="481" x="-535" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-13" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.62;dx=15.83;direction=south;notch=0;fillColor=light-dark(#000000,#FF0010);" value="" vertex="1">
+          <mxGeometry height="45" width="22" x="-305.5" y="-462" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-14" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.62;dx=15.83;direction=south;notch=0;fillColor=light-dark(#000000,#FF0010);" value="" vertex="1">
+          <mxGeometry height="45" width="22" x="-305.5" y="-357" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-15" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.62;dx=15.83;direction=south;notch=0;fillColor=light-dark(#000000,#FF0010);" value="" vertex="1">
+          <mxGeometry height="45" width="22" x="-305.5" y="-248" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-16" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.62;dx=15.83;direction=south;notch=0;fillColor=light-dark(#000000,#FF0010);" value="" vertex="1">
+          <mxGeometry height="45" width="22" x="-309" y="-139" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-17" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.62;dx=15.83;direction=south;notch=0;fillColor=light-dark(#000000,#FF0010);" value="" vertex="1">
+          <mxGeometry height="45" width="22" x="-309" y="-32" as="geometry" />
+        </mxCell>
+        <mxCell id="8A_bbbIu-JFtF49CWBwj-18" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Medbridge-patient-data-flow&lt;/font&gt;" vertex="1">
+          <mxGeometry height="45" width="306" x="-447.5" y="-593" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
