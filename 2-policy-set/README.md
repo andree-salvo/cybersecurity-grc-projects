@@ -71,10 +71,10 @@ These are proposed policy requirements for the fictional company and do not repr
 
 ### Security Policies
 
-- [Information Security Policy (PDF)](policies/medbridge-information-security-policy.pdf)
-- [Acceptable Use Policy (PDF)](policies/medbridge-acceptable-use-policy.pdf)
-- [Password and Authentication Policy (PDF)](policies/medbridge-password-authentication-policy.pdf)
-- [Incident Response Policy (PDF)](policies/medbridge-incident-response-policy.pdf)
+- [Information Security Policy (PDF)](https://github.com/andree-salvo/cybersecurity-grc-projects/blob/main/2-policy-set/policies/MedBridge%20Health%20%E2%80%94%20Information%20Security%20Policy.pdf)
+- [Acceptable Use Policy (PDF)](https://github.com/andree-salvo/cybersecurity-grc-projects/blob/main/2-policy-set/policies/MedBridge%20Health%20%E2%80%94%20Acceptable%20Use%20Policy.pdf)
+- [Password and Authentication Policy (PDF)](https://github.com/andree-salvo/cybersecurity-grc-projects/blob/main/2-policy-set/policies/MedBridge%20Health%20%E2%80%94%20Password%20and%20Authentication%20Policy.pdf)
+- [Incident Response Policy (PDF)](https://github.com/andree-salvo/cybersecurity-grc-projects/blob/main/2-policy-set/policies/MedBridge%20Health%20%E2%80%94%20Incident%20Response%20Policy.pdf)
 
 ### Supporting Documentation
 
