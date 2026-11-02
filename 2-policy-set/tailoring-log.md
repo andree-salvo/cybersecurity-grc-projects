@@ -38,3 +38,38 @@ For example, MedBridge Health's outdated asset inventory, missing vendor agreeme
 SANS Institute / Cybersecurity Risk Foundation — Program Management Policy (February 2026).
 
 This policy was used as a reference and customized for the fictional MedBridge Health environment.
+
+## Acceptable Use Policy — Tailoring Log
+
+For this policy, I used the SANS Acceptable Use Standard (April 2025) as a reference and customized it to fit MedBridge Health's healthcare environment.
+
+I focused on how employees use company devices, access patient information, communicate through approved applications, and work remotely.
+
+I also made sure the requirements stayed consistent with the Information Security Policy I created earlier.
+
+| Policy Section | SANS Template | Changes Made for MedBridge Health | Reason |
+|---|---|---|---|
+| Purpose | General rules for acceptable use of company technology. | Added specific language about protecting patient information and using healthcare systems responsibly. | MedBridge Health handles PHI and other sensitive information. |
+| Scope | Covers employees, contractors, devices, and network resources. | Added the San Francisco office, remote employees, AWS, Okta, EHR systems, and communication platforms. | The policy needs to reflect MedBridge Health's technology environment. |
+| Roles and Responsibilities | General responsibilities for employees and authorized users. | Assigned responsibilities to the CEO, CTO, vCISO, IT Manager, Privacy Officer, and HR Manager. | MedBridge Health does not have a dedicated cybersecurity team. |
+| Company Technology | General acceptable use and ownership requirements. | Added rules for approved software, company-managed devices, and reporting lost equipment. | Helps reduce security risks associated with unauthorized devices and applications. |
+| Patient Information | General requirements for protecting confidential company information. | Prohibited sharing PHI through Slack, personal email, public AI chatbots, and unauthorized cloud storage. | Patient information requires additional protection. |
+| Account Security | Requires secure accounts and password-protected screen locks within 10 minutes. | Required individual accounts, MFA for PHI systems, and a five-minute screen lock. | Keeps the policy consistent with MedBridge Health's Information Security Policy. |
+| Remote Work | General device and network security requirements. | Added secure home Wi-Fi, approved remote access, and restrictions on personal devices. | MedBridge Health has employees working remotely. |
+| Prohibited Activities | Prohibits unauthorized access, malicious software, and network misuse. | Added written authorization requirements for security scans and restrictions on disabling security controls. | Helps prevent unauthorized security testing and system misuse. |
+| Email and Communication | General email and communication restrictions. | Added phishing reporting requirements and restrictions on sharing sensitive information. | Reduces the risk of phishing attacks and patient information exposure. |
+| Social Media | Prohibits unauthorized disclosure of confidential company information. | Added restrictions on posting patient information and confidential business information. | Helps prevent accidental disclosure of sensitive information. |
+| Enforcement | General disciplinary actions for policy violations. | Assigned responsibilities to HR, the IT Manager, vCISO, and Privacy Officer. | Makes sure violations are reviewed by the appropriate personnel. |
+| Document Control | General policy documentation. | Added a policy ID, version number, owner, approver, and annual review requirements. | Helps track policy changes and maintain accountability. |
+
+### What I Learned
+
+Working on this policy helped me understand how employee activities can create security risks, especially when sensitive patient information is involved.
+
+One thing I learned is that acceptable use policies need to cover more than just company computers. They also need to address remote work, communication platforms, account security, and how employees handle sensitive information.
+
+I also learned why it's important to keep security policies consistent. For example, I kept the five-minute screen-lock requirement the same in both the Information Security Policy and Acceptable Use Policy.
+
+### Reference
+
+SANS Institute — Acceptable Use Standard (April 2025).
