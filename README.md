@@ -66,6 +66,6 @@ Projects 1–5 use this fictional company to demonstrate different GRC activitie
 
 ## Disclaimer
 
-All company information, security findings, and business scenarios involving MedBridge Health are fictional and created for educational purposes.
+All company information, security findings, and business scenarios involving MedBridge Health are fictional and created for educational purposes ONLY.
 
-This portfolio documents simulated GRC assessments and recommendations and does not represent an audit of a real healthcare organization.
+This repository documents simulated GRC assessments and recommendations and does not represent an audit of a real healthcare organization.
