@@ -6,7 +6,7 @@ This repository contains hands-on projects I've worked on to build my skills in 
 
 For these projects, I'm using a fictional healthcare company called **MedBridge Health, Inc.**, based in San Francisco, California.
 
-Through these projects, I'm gaining practical experience identifying security risks, assessing security controls, documenting findings, and recommending improvements to help organizations protect sensitive information and meet compliance requirements.
+Within these projects, I'm gaining practical experience identifying security risks, assessing security controls, documenting findings, and recommending improvements to help organizations protect sensitive information and meet compliance requirements.
 
 ## GRC Projects
 
@@ -41,9 +41,9 @@ Throughout these projects, I'll be working with the following cybersecurity fram
 
 ## Portfolio Objectives
 
-My goal with this portfolio is to gain more hands-on experience with GRC by working through realistic cybersecurity and compliance scenarios.
+My goal with this repository is to gain more hands-on experience within GRC by working through realistic cybersecurity and compliance scenarios.
 
-I want to improve my ability to identify potential security risks, understand how different cybersecurity frameworks are used, and document findings in a way that is clear and easy to understand.
+I want to improve my ability to identify potential security risks, understand how different cybersecurity frameworks are used, and document findings in a way that is clear and easy to understand for technical and non technical people.
 
 These projects also give me an opportunity to practice developing security documentation and making recommendations based on identified risks.
 
